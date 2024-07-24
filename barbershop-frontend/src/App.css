@@ -1,0 +1,25 @@
+.App-main {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  height: calc(100vh - 100px); /* Adjust as needed based on your header/footer size */
+}
+
+.content-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(76, 76, 76);
+}
+
+App-header{
+
+  height: 1.5cm;
+}
+
+
+.app {
+  display: flex;
+}
+
+
